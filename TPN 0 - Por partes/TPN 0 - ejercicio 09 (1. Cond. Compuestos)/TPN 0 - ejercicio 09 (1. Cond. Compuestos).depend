@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650637265 source:c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\1. unidad 1 - introducción a la programación estructurada\tpn 0 - inicial\tpn 0 - por partes\tpn 0 - ejercicio 09 (1. cond. compuestos)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650634833 source:c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\1. unidad 1 - introducción a la programación estructurada\tpn 0 - inicial\tpn 0 - por partes\tpn 0 - ejercicio 03 (3. secuenciales)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647866899 source:c:\users\equipo\desktop\carpeta drive\utn\1º cuatrimestre\programacion\tps\tpn 0\tpn 0 - sueltos (terminado)\tpn 0 - ejercicio 15 (5. repeticiones)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+

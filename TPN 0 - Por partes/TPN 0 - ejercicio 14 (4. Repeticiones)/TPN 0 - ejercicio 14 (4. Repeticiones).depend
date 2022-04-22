@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647558957 source:g:\otros ordenadores\mi portátil\carpeta drive\utn\1º cuatrimestre\programacion\tps\tpn 0\tpn 0 - ejercicio 14 (4. repeticiones)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
