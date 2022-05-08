@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 #include <locale.h>
+
 int main()
 {
     setlocale(LC_ALL,"");
@@ -13,66 +14,63 @@ int main()
  /**   float total, descuento, conDescuento;        // ejercicio 5 (E)  ya estan declaradas las variables...*/
     int horasTrabajadas, horasExtra, salario;    // ejercicio 6 (F)
     int numeroA, numeroB;                        // ejercicio 7 (G)
-        system("color 2e");
+    system("color 2e");
 
-        printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
-        Sleep(50);
-        printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
-        Sleep(50);
-        printf("//             //  //      //    //      //   //  /   //         //      //       //      // /    //     //\n");
-        Sleep(50);
-        printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
-        Sleep(50);
-        printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
-        Sleep(50);
-        printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
-        Sleep(50);
-        printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
-        Sleep(50);
-        printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
-        Sleep(50);
-        printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("//                                                                                                       //\n");
-        Sleep(50);
-        printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-        Sleep(500);
-
-
+    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
+    Sleep(50);
+    printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
+    Sleep(50);
+    printf("//             //  //      //    //      //   //  /   //         //      //       //      // /    //     //\n");
+    Sleep(50);
+    printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
+    Sleep(50);
+    printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
+    Sleep(50);
+    printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
+    Sleep(50);
+    printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
+    Sleep(50);
+    printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
+    Sleep(50);
+    printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("//                                                                                                       //\n");
+    Sleep(50);
+    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+    Sleep(500);
 
     do
     {
         system("color 3f");
         system("cls");
-
 
         printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
         Sleep(50);
@@ -118,7 +116,7 @@ int main()
         Sleep(50);
         printf("//                                                                                                       //\n");
         Sleep(50);
-        printf("//                                         Habilitados hasta el E                                        //\n");
+        printf("//                                         Habilitados hasta el G                                        //\n");
         Sleep(50);
         printf("//                                                                                                       //\n");
         Sleep(50);
@@ -253,7 +251,7 @@ int main()
                     Sleep(50);
                     printf("//                                                                                                       //\n");
                     Sleep(50);
-                    printf("//                                   Ejercicio 2 (A) - Secuentcias.                                      //\n");
+                    printf("//                                   Ejercicio 2 (B) - Secuentcias.                                      //\n");
                     Sleep(50);
                     printf("//                                                                                                       //\n");
                     Sleep(50);
@@ -305,7 +303,7 @@ int main()
                     Sleep(50);
                     printf("//                                                                                                       //\n");
                     Sleep(50);
-                    printf("//                                   Ejercicio 2 (A) - Secuentcias.                                      //\n");
+                    printf("//                                   Ejercicio 2 (B) - Secuentcias.                                      //\n");
                     Sleep(50);
                     printf("//                                                                                                       //\n");
                     Sleep(50);
@@ -523,264 +521,264 @@ int main()
 
             do
             {
+                do
+                {
+                    system("cls");
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
+                    Sleep(50);
+                    printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f                    //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >> Promedio:                         >> Estado:                                                  //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
+                    Sleep(50);
+                    printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    printf("                                              Nota 1:  ");
+                    scanf("%f", &nota1);
 
-                        do
-                        {
-                            system("cls");
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
-                            Sleep(50);
-                            printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f                    //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >> Promedio:                         >> Estado:                                                  //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
-                            Sleep(50);
-                            printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            printf("                                              Nota 1:  ");
-                            scanf("%f", &nota1);
+                } while (nota1 < 0 || nota1 > 10);
 
-                        } while (nota1 < 0 || nota1 > 10);
-                        do
-                        {
-                            system("cls");
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
-                            Sleep(50);
-                            printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f                    //\n", nota1);
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >> Promedio:                         >> Estado:                                                  //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
-                            Sleep(50);
-                            printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            printf("                                              Nota 2:  ");
-                            scanf("%f", &nota2);
+                do
+                {
+                    system("cls");
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
+                    Sleep(50);
+                    printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f                    //\n", nota1);
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >> Promedio:                         >> Estado:                                                  //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
+                    Sleep(50);
+                    printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    printf("                                              Nota 2:  ");
+                    scanf("%f", &nota2);
 
-                        } while (nota2 < 0 || nota2 > 10);
-                        do
-                        {
-                            system("cls");
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
-                            Sleep(50);
-                            printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f          \n", nota1, nota2);
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >> Promedio:                         >> Estado:                                                  //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
-                            Sleep(50);
-                            printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            printf("                                              Nota 3:  ");
-                            scanf("%f", &nota3);
+                } while (nota2 < 0 || nota2 > 10);
+                do
+                {
+                    system("cls");
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
+                    Sleep(50);
+                    printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f          \n", nota1, nota2);
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >> Promedio:                         >> Estado:                                                  //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
+                    Sleep(50);
+                    printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    printf("                                              Nota 3:  ");
+                    scanf("%f", &nota3);
 
-                        } while (nota3 < 0 || nota3 > 10);
-                        promedio = (nota1 + nota2 + nota3) / 3 ;
-                        if (promedio >= 7)
-                        {
-                            system("cls");
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
-                            Sleep(50);
-                            printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f          \n", nota1, nota2, nota3);
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >> Promedio: %.2f                       >> Estado: felicidades!!! Aprobaste.                      \n", promedio);
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
-                            Sleep(50);
-                            printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            printf("   Inicio = Any key         Repetir: r o R        Terminar / salir = s o S         Tu entrada: ");
+                } while (nota3 < 0 || nota3 > 10);
+                promedio = (nota1 + nota2 + nota3) / 3 ;
+                if (promedio >= 7)
+                {
+                    system("cls");
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
+                    Sleep(50);
+                    printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f          \n", nota1, nota2, nota3);
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >> Promedio: %.2f                       >> Estado: felicidades!!! Aprobaste.                      \n", promedio);
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
+                    Sleep(50);
+                    printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    printf("   Inicio = Any key         Repetir: r o R        Terminar / salir = s o S         Tu entrada: ");
 
-                            scanf("%c", &option);
-                            scanf("%c", &option);
-                            printf("\n\n");
-                        } else
-                        {
-                            system("cls");
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
-                            Sleep(50);
-                            printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f          \n", nota1, nota2, nota3);
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      >> Promedio: %.2f                       >> Estado: Desaprobaste, sigue intentando.        \n", promedio);
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
-                            Sleep(50);
-                            printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
-                            Sleep(50);
-                            printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
-                            Sleep(50);
-                            printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
-                            Sleep(50);
-                            printf("//                                                                                                       //\n");
-                            Sleep(50);
-                            printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
-                            printf("   Inicio = Any key         Repetir: r o R        Terminar / salir = s o S         Tu entrada: ");
+                    scanf("%c", &option);
+                    scanf("%c", &option);
+                    printf("\n\n");
+                } else
+                {
+                    system("cls");
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                           Ejercicio 4 (D) - Condicionales Selectivos Simples .                        //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//    1) Determinar si un alumno aprueba a reprueba un curso, sabiendo que aprobara  si su               //\n");
+                    Sleep(50);
+                    printf("//       promedio de tres calificaciones es mayor o igual a 7; reprueba en caso contrario.               //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >>  Nota 1: %2.2f              >>  Nota 2: %2.2f               >>  Nota 3: %2.2f          \n", nota1, nota2, nota3);
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      >> Promedio: %.2f                       >> Estado: Desaprobaste, sigue intentando.        \n", promedio);
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("//      /////////  //      //    //////////   //      //         //      //   //////////  //      //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   // /    //         //      //       //      ///     //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //   /  //         //      //       //      //  /   //     //\n");
+                    Sleep(50);
+                    printf("//             //  //      //    //      //   //    / //         //      //       //      //   /  //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //////////   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //    / //         //      //       //      //    / //     //\n");
+                    Sleep(50);
+                    printf("//     //      //  //      //    //      //   //     ///         //      //       //      //     ///     //\n");
+                    Sleep(50);
+                    printf("//     //////////  //////////    //      //   //      //         //////////       //      //      //     //\n");
+                    Sleep(50);
+                    printf("//                                                                                                       //\n");
+                    Sleep(50);
+                    printf("///////////////////////////////////////////////////////////////////////////////////////////////////////////\n");
+                    printf("   Inicio = Any key         Repetir: r o R        Terminar / salir = s o S         Tu entrada: ");
 
-                            scanf("%c", &option);
-                            scanf("%c", &option);
-                            printf("\n\n");
+                    scanf("%c", &option);
+                    scanf("%c", &option);
+                    printf("\n\n");
 
-                        } // fin else
-            } while (option == 'r' || option == 'R'); // fin repetir
-            break;
+                } // fin else
+        } while (option == 'r' || option == 'R'); // fin repetir
+        break;
 
         case 'e':
         case 'E':
@@ -1121,7 +1119,7 @@ int main()
             break;
         case 'g':
         case 'G':
-            // ----------------------------------------------- Ejercicio 6 (F) -----------------------------------------------------------
+            // ----------------------------------------------- Ejercicio 7 (G) -----------------------------------------------------------
 
             do{
                 system("cls");
@@ -1341,18 +1339,28 @@ int main()
             break;
 
 
-
-
+        case 's':
+        case 'S':
+            break;
         default:
-            option = 'y';
-            printf("         Estamos trabajando en los ejercicios, aun no se ha añadido. o no pertenece al menu");
+            system("cls");
+            do
+            {
+                printf("\n >> Hechos hasta el 7 (G), no voy a dedicarle tiempo a terminar ya que la finalidad era mostrar un menú.");
+                printf("\n >> Pueden ver la resolución del resto individualmente en el github, \n");
+                printf("      simplemente no serán agregado al menú interactivo. \n\n");
+                printf("   Inicio = Any key         Repetir: r o R        Terminar / salir = s o S         Tu entrada: ");
+                fflush(stdin);
+                scanf("%c", &option);
+                printf("\n\n");
+            } while (option == 'r' || option == 'R');
             break;
    // ----------------------------------------------- default -----------------------------------------------------------
         } // End swith
 
     fflush(stdin);
     } while(option != 's' && option != 'S'); // Fin repetir programa
-    printf("\n\n");
+    printf("\n'No te preocupes si no funciona bien. Si todo estuviera correcto, serías despedido de tu trabajo'\n -- Ley de Mosher de la Ingeniería del Software.\n\n");
     system("pause");
     return 0;
 } // Fin main
